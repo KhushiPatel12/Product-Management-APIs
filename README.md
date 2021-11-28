@@ -13,7 +13,7 @@ _PRODUCT_
 _COMPANY_
 - company id : String
 - name : String
-- product ids : Array of String
+- product id : Array of String
 
 _SELLER_
 - seller id : String
