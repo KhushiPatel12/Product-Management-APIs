@@ -43,5 +43,5 @@ _DELETE_
 - delete seller
 - delete product
 
-## See Screenshots Here?
+## See Screenshots Here
 - [CLick Here](https://github.com/KhushiPatel12/Product-Management-APIs/tree/main/Postman)!
