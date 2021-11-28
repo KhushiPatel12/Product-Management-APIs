@@ -1,21 +1,6 @@
 # Product-Management-APIs
 ## _Product Management APIs ( Using EXPRESS)_
 
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/rowe20/Product-Management-APIs/blob/main/assignment-4/app.js)
-## Emphasis
-
-*The Aim of this app is to show how data is being passed via "Postman" using POST request*  
-
-_It is an Assignment given by **VNSGU** ._
-
-__It's a simple App ,without MongoDB__
-
-### Requirements
-
-* Nodejs 16.13.0 LTS and above
-* Visual Studio Code or Other Editors
-
 ## SCHEMA:
 _PRODUCT_
 - product id : String
@@ -33,7 +18,7 @@ _COMPANY_
 _SELLER_
 - seller id : String
 - name : String
-- product ids : Array of String
+- product id : Array of String
 
 ## POST REQUESTS:
 
